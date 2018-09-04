@@ -32,7 +32,6 @@ Mínimo 4 filas de altura y 3 columnas distintas.
 PC: 4000
 
 # IMAGENES
-Si quieres, puedes subir pantallazos y enlazarlos aquí.
 ![Actividad 1](imagen1.png)
 ![Actividad 2](/tuimagen2.png)
 ![Actividad 3](/tuimagen3.png)
